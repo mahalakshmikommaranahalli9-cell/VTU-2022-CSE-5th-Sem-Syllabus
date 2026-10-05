@@ -2,6 +2,7 @@
 
 Official syllabus reference B.E. Computer Science & Engineering (CSE) under the VTU 2022 Scheme
 📚 5th Semester
+
 BCS50-Software Engineering & Project Management
 
 BCS502-Computer Networks
